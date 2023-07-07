@@ -4,6 +4,7 @@ go 1.18
 
 require (
 	github.com/Azure/azure-sdk-for-go v63.1.0+incompatible
+	github.com/blues/jsonata-go v1.5.4
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.4.0
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.2.2
 	github.com/Azure/go-autorest/autorest v0.11.27
