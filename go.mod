@@ -33,7 +33,7 @@ require (
 	github.com/google/go-cmp v0.5.9
 	github.com/googleapis/gnostic v0.6.8
 	github.com/gorilla/csrf v1.7.1
-	github.com/gorilla/mux v1.8.0
+	github.com/gorilla/mux v1.7.4
 	github.com/gorilla/securecookie v1.1.1
 	github.com/gorilla/sessions v1.2.1
 	github.com/jewzaam/go-cosmosdb v0.0.0-20220315232836-282b67c5b234
