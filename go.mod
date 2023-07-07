@@ -78,6 +78,7 @@ require (
 	sigs.k8s.io/controller-runtime v0.12.3
 	sigs.k8s.io/controller-tools v0.9.0
 	github.com/hashicorp/vault v1.1.2
+	github.com/blues/jsonata-go v1.5.4
 )
 
 require (
